@@ -1,0 +1,18 @@
+.searchWrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 40px 0;
+}
+
+.searchWrapper .searchBox {
+    height: 45px;
+    width: 300px;
+    border: 1px solid #0ccac4;
+    background: lightgreen;
+    opacity: 0.8;
+}
+
+.searchWrapper .searchBox:focus {
+    outline: none;
+}

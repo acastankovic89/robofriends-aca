@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'SEGA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+}
+
+.appPage {
+
+}
+
+.appTitle {
+    font-family: 'SEGA LOGO FONT';
+    font-size: 40px;
+    font-weight: 200;
+    color: #0ccac4;
+    text-align: center;
+    margin: 60px 0 0;
+}
